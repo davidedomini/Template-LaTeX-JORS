@@ -17,5 +17,6 @@ _minted*/
 *.snm
 *.vrb
 build/
-conference_101719.pdf
+jors_template.pdf
 out/
+.DS_Store
